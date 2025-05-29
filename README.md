@@ -33,7 +33,7 @@ A FastAPI web application following the MVC design pattern with MySQL database i
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/zcaler/lucid-assignment
 cd lucid
 ```
 
